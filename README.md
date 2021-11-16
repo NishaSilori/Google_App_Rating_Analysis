@@ -28,4 +28,8 @@ This project uses data from [Kaggle](https://www.kaggle.com/datasets?sort=votes&
 4)Filling the Missing values:As the name suggest, this stpe include filling the null values with appropriate aggregate values like mean,mode and median.
   this step is being  shown by "data_imputation_and_manipulation.py" file.
 
-5)Visualization: this step include visualizing the outcome. this step is being shown by "data_visualization.py" file
+5)Visualization: this step include visualizing the outcome. this step is being shown by "data_visualization.py" file.Below I have shared the figures
+
+![Figure_1](https://user-images.githubusercontent.com/91373430/141889456-27701788-525c-4b04-8895-29404d910d9a.png)
+
+
