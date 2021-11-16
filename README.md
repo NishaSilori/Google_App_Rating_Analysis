@@ -32,4 +32,11 @@ This project uses data from [Kaggle](https://www.kaggle.com/datasets?sort=votes&
 
 ![Figure_1](https://user-images.githubusercontent.com/91373430/141889456-27701788-525c-4b04-8895-29404d910d9a.png)
 
+![Figure_1](https://user-images.githubusercontent.com/91373430/141889670-c87edbe5-454a-4e14-b36e-c6058adbf217.png)
+
+![Figure_2](https://user-images.githubusercontent.com/91373430/141889769-248554d9-30dc-41d3-b004-41bb0352b800.png)
+
+
+
+
 
