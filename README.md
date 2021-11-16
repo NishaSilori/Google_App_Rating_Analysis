@@ -20,3 +20,12 @@ This project uses data from [Kaggle](https://www.kaggle.com/datasets?sort=votes&
 ![Figure_1](https://user-images.githubusercontent.com/91373430/141886255-6b1a5139-906f-40e8-8d22-17091957568d.png)
 
 ![Figure_1](https://user-images.githubusercontent.com/91373430/141887628-584ae0b1-ea63-4e1e-aa1d-3cfd9da84d21.png)
+
+3)Data Cleanig: This steps includes remove the redundancy and duplicacy from the data.this step is being by "data_cleaning.py" file.After cleaning the data,I got the figure showing that outlier are removed. figure is shown below.
+
+![Figure_1](https://user-images.githubusercontent.com/91373430/141888793-7fdcb6bd-bf4e-4d92-adc9-1d12e0be4533.png)
+
+4)Filling the Missing values:As the name suggest, this stpe include filling the null values with appropriate aggregate values like mean,mode and median.
+  this step is being  shown by "data_imputation_and_manipulation.py" file.
+
+5)Visualization: this step include visualizing the outcome. this step is being shown by "data_visualization.py" file
