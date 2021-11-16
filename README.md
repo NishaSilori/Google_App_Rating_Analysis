@@ -10,5 +10,9 @@ This project uses data from [Kaggle](https://www.kaggle.com/datasets?sort=votes&
  the following description of the 13 variables in the dataset namely App', 'Category', 'Rating', 'Reviews', 'Size', 'Installs', 'Type',
        'Price', 'Content Rating', 'Genres', 'Last Updated', 'Current Ver',
        'Android Ver
+## Steps for EDA
+1)loading the data : this is the first step in EDA, i have first import the data from kaggle and this step is being shown by file name "import_data.py".
 
+2)exploraing the data: this is the second step, in EDA, this step takes significant amount of time as our further accuracy will depend on how better we gave understood the data. this step is being shown by "data_exploration.py" file.
  
+![Figure_1](https://user-images.githubusercontent.com/91373430/141886255-6b1a5139-906f-40e8-8d22-17091957568d.png)
