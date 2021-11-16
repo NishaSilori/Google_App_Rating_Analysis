@@ -13,6 +13,10 @@ This project uses data from [Kaggle](https://www.kaggle.com/datasets?sort=votes&
 ## Steps for EDA
 1)loading the data : this is the first step in EDA, i have first import the data from kaggle and this step is being shown by file name "import_data.py".
 
-2)exploraing the data: this is the second step, in EDA, this step takes significant amount of time as our further accuracy will depend on how better we gave understood the data. this step is being shown by "data_exploration.py" file.
+2)exploraing the data: this is the second step, in EDA, this step takes significant amount of time as our further accuracy will depend on how better we gave understood the data. this step is being shown by "data_exploration.py" file. Here, I have done summary statistics, after this I have plot box plot which is a part of univariate analysis and get to know that my data is mostly concentrated between 3 to 5 whereas we have an outlier present in rating column. For netter understanding i have used histogram and these figure are being shared below.
+
+
  
 ![Figure_1](https://user-images.githubusercontent.com/91373430/141886255-6b1a5139-906f-40e8-8d22-17091957568d.png)
+
+![Figure_1](https://user-images.githubusercontent.com/91373430/141887628-584ae0b1-ea63-4e1e-aa1d-3cfd9da84d21.png)
