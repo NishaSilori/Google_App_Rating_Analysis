@@ -36,7 +36,7 @@ This project uses data from [Kaggle](https://www.kaggle.com/datasets?sort=votes&
 
 ![Figure_2](https://user-images.githubusercontent.com/91373430/141889769-248554d9-30dc-41d3-b004-41bb0352b800.png)
 
-
+6) Conclusion: now comes the conclusion drawn from the above data visualization.It shows that people are buying finance app followed by lifestyle app and then medical apps but reviews is given more in communication app then social apps and then on games apps.
 
 
 
